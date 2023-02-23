@@ -10,6 +10,6 @@ As can be seen, by column 1 and column 3, the cross-view intra-class variance is
 The framework of LUGAN
 ![图片](figs/LUGAN.png)
 
-1. Download data followed by https://github.com/tteepe/GaitGraph;
+1. Prepare data followed by https://github.com/tteepe/GaitGraph;
 2. Run train.py
 
